@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard (Power BI Project)
+# 🚗 Car Sales Dashboard 
 
 <img width="1022" height="727" alt="Screenshot 2025-11-07 091932" src="https://github.com/user-attachments/assets/f5ced6ab-44e9-4aa2-823c-0e09060f0b8a" />
 
